@@ -1,0 +1,22 @@
+{
+  "name": "trailing-newline",
+  "version": "1.0.0",
+  "description": "Check whether a string ends with a newline",
+  "main": "./src/",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bendrucker/trailing-newline.git"
+  },
+  "keywords": [
+    "newline"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/trailing-newline/issues"
+  },
+  "homepage": "https://github.com/bendrucker/trailing-newline"
+}
