@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+- '0.10'
+- '0.12'
+- iojs
+deploy:
+  provider: npm
+  email: bvdrucker@gmail.com
+  api_key:
+    secure: CFxJH06O0GlJT6nMxnTgbPcoblUWqYL8KnKVeuwbI1kRezgTJsCh1czHxO4YzZfFAaw7ahyJP4LfWSAqNkPKinRBYrT8UTKHH2FtKIgn45STR2NixAJkMPR5TIwZq5i4UEwuygjmD79QX+MqUFd+QIO2Fz1pkDDQMq88zbFetcQ=
+  on:
+    tags: true
+    all_branches: true
+    repo: bendrucker/trailing-newline
