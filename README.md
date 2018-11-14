@@ -1,4 +1,4 @@
-# trailing-newline [![Build Status](https://travis-ci.org/bendrucker/trailing-newline.svg?branch=master)](https://travis-ci.org/bendrucker/trailing-newline)
+# trailing-newline [![Build Status](https://travis-ci.org/bendrucker/trailing-newline.svg?branch=master)](https://travis-ci.org/bendrucker/trailing-newline) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/trailing-newline.svg)](https://greenkeeper.io/)
 
 Check whether a string ends with a newline on Unix or Windows.
 
